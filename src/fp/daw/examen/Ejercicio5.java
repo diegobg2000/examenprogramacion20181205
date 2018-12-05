@@ -1,5 +1,7 @@
 package fp.daw.examen;
 
+import java.util.Scanner;
+
 public class Ejercicio5 {
 
 	/* 
@@ -23,8 +25,15 @@ public class Ejercicio5 {
 	 */
 	
 	public static void main(String[] args) {
-		
+		System.out.println("Escriba la cantidad de dinero deseada");
+		Scanner in = new Sacanner (System.in);
+		 int n = in.nextLine();
+		 int contador200 = 0;
+				
+				
+		for (int i = 0 ; i<;i++) {
+			
+		}
 
-	}
 
 }

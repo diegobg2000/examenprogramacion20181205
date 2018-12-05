@@ -12,7 +12,9 @@ public class Ejercicio4 {
 	 * Finalmente retornará el array.
 	 */
 	
-	public static ...
+	public static void arrayAleatorioOrdenado () {
+		
+	}
 	
 	/*
 	 * 0,25 puntos
